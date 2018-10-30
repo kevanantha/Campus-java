@@ -26,5 +26,11 @@ public class Project {
   public int getProjectNum() {
     return this.projectNum;
   }
+
+  // toString
+  public String toString() {
+    return "Project: " + this.projectName;
+  }
+
 }
 
