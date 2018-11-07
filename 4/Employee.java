@@ -7,7 +7,7 @@ public class Employee {
   String designation;
   double salary;
 
-  // This is contructor of the class Employee.
+  // This is constructor of the class Employee.
   public Employee(String name) {
     this.name = name;
   }
