@@ -30,3 +30,6 @@ public class DigiCom {
     System.out.println("Total Weekly Wage = " + totalWage);
   }
 }
+
+
+
